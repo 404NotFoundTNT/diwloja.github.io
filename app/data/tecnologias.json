@@ -1,0 +1,86 @@
+[
+  {
+    "title": "HTML",
+    "image": "html.svg",
+    "description": "Linguagem de marcação utilizada para estruturar o conteúdo de páginas web.",
+    "rating": 4
+  },
+  {
+    "title": "CSS",
+    "image": "css.svg",
+    "description": "Linguagem utilizada para definir o estilo, as cores e a disposição dos elementos de páginas web.",
+    "rating": 4
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "tailwind.svg",
+    "description": "Framework de CSS que permite estilizar interfaces através de classes utilitárias.",
+    "rating": 5
+  },
+  {
+    "title": "JavaScript",
+    "image": "javascript.svg",
+    "description": "Linguagem de programação utilizada para adicionar interatividade e comportamento às páginas web.",
+    "rating": 5
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Linguagem baseada em JavaScript que acrescenta tipagem estática para ajudar a identificar erros durante o desenvolvimento.",
+    "rating": 4
+  },
+  {
+    "title": "JSON",
+    "image": "json.svg",
+    "description": "Formato de texto utilizado para representar, guardar e trocar dados estruturados.",
+    "rating": 4
+  },
+  {
+    "title": "API RESTful",
+    "image": "api-restful.svg",
+    "description": "Interface que segue os princípios REST e permite a comunicação entre aplicações, normalmente através de HTTP.",
+    "rating": 4
+  },
+  {
+    "title": "Swagger",
+    "image": "swagger.svg",
+    "description": "Conjunto de ferramentas para descrever, documentar e testar APIs com base na especificação OpenAPI.",
+    "rating": 3
+  },
+  {
+    "title": "GitHub",
+    "image": "github.svg",
+    "description": "Plataforma para alojar repositórios Git e colaborar no desenvolvimento de projetos.",
+    "rating": 5
+  },
+  {
+    "title": "Codespaces",
+    "image": "codespaces.svg",
+    "description": "Serviço do GitHub que disponibiliza ambientes de desenvolvimento na nuvem.",
+    "rating": 4
+  },
+  {
+    "title": "GitHub Pages",
+    "image": "github-pages.svg",
+    "description": "Serviço do GitHub para publicar sites estáticos a partir de repositórios.",
+    "rating": 4
+  },
+  {
+    "title": "React.js",
+    "image": "react.svg",
+    "description": "Biblioteca de JavaScript para construir interfaces de utilizador com componentes reutilizáveis.",
+    "rating": 5
+  },
+  {
+    "title": "Next.js",
+    "image": "nextjs.svg",
+    "description": "Framework baseado em React que disponibiliza funcionalidades como roteamento e renderização no servidor.",
+    "rating": 5
+  },
+  {
+    "title": "Vercel",
+    "image": "vercel.svg",
+    "description": "Plataforma para publicar e alojar sites e aplicações web, incluindo projetos React e Next.js.",
+    "rating": 4
+  }
+]
